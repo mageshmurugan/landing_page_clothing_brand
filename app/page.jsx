@@ -71,9 +71,7 @@ function Home() {
 
       <div className={styles.body1_text}>
         <h1>Benefits</h1>
-        <p>Tailored to Perfection: Each garment is meticulously crafted to your exact measurements.
-- Uncompromising Quality: We source the finest materials to ensure durability and longevity.
-- Hassle-Free Returns: We offer a hassle-free return policy if you're not completely satisfied.
+        <p>Tailored to Perfection: Each garment is meticulously crafted to your exact measurements. Uncompromising Quality: We source the finest materials to ensure durability and longevity. Hassle-Free Returns: We offer a hassle-free return policy if you're not completely satisfied.
 </p>
       </div>
       <div className={styles.body1_image} >
